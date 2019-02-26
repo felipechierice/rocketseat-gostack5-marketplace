@@ -1,5 +1,5 @@
 # rocketseat-gostack5-marketplace
-API REST utilizando NodeJS, Express, Mongoose, Handlebars, Redis, Kue, Nodemailer e outras libs, além do uso de validadores, Sentry e autenticação com JWT.
+API REST utilizando NodeJS, Express, Mongoose, Handlebars, Redis, Kue, Nodemailer e outras libs, além do uso de validadores, Sentry e autenticação com JWT. Projeto do Bootcamp da Rocketseat, GoStack 5. Já com as modificações do desafio do final do módulo, que segue com especificações abaixo.
 
 # Desafio 3
 Nesse terceiro desafio você irá melhorar a aplicação desenvolvida durante o terceiro módulo
